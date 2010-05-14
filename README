@@ -1,0 +1,4 @@
+libdioxin - A cross-platform wrapper between MobileDevice (used by iTunes) and libimobiledevice (used on Linux) for Jailbreaks
+
+This library aims to provide a simple, single cross-platform API for writing iDevice jailbreaks and perhaps later a more full interface for general idevice connections.
+
